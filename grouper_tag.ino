@@ -5,7 +5,9 @@
  * 
  * Designed to measure very quick movements of spawning Grouper off the Gulf Coast of Florida. Sample rate is set at 1000 Hz.
  * 
- * Last Modified: July 20th, 2017
+ * Last Modified: July 20th, 2017 by Nicholas Hukriede
+ * 
+ * Mote Marine Laboratory: Ocean Technology Program
  */
 
 #include <MS5837.h>
