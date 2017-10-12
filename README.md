@@ -8,4 +8,4 @@ This is the background code that you will need to upload to your SparkFun Razor 
 
 https://learn.sparkfun.com/tutorials/9dof-razor-imu-m0-hookup-guide?_ga=2.150483955.495651763.1500300456-231747104.1500300456
 
-I have also equipped this board with available wireless Qi charging, a Blue Robotics Bar30 temperature/pressure sensor, and Adafruit low energy Bluetooth capabilities. 
+I have also equipped this board with available wireless Qi charging, a Blue Robotics Bar30 temperature/pressure sensor, and Adafruit low energy Bluetooth capabilities for easy data transfer. 
